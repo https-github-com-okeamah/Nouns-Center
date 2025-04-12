@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@algolia/autocomplete-theme-classic": "^1.6.3",
-    "@docsearch/css": "^3.2.1",
+    "@docsearch/css": "^3.9.0",
     "@headlessui/react": "^0.0.0-insiders.fc7def3",
     "@heroicons/react": "^1.0.5",
     "@rainbow-me/rainbowkit": "^2.2.2",
